@@ -1,0 +1,7 @@
+C:\Users\tmgod\source\repos\Lab5CPRG211D-Natalia\Lab5CPRG211D-Natalia\bin\Debug\Lab5CPRG211D-Natalia.exe.config
+C:\Users\tmgod\source\repos\Lab5CPRG211D-Natalia\Lab5CPRG211D-Natalia\bin\Debug\Lab5CPRG211D-Natalia.exe
+C:\Users\tmgod\source\repos\Lab5CPRG211D-Natalia\Lab5CPRG211D-Natalia\bin\Debug\Lab5CPRG211D-Natalia.pdb
+C:\Users\tmgod\source\repos\Lab5CPRG211D-Natalia\Lab5CPRG211D-Natalia\obj\Debug\Lab5CPRG211D-Natalia.csproj.AssemblyReference.cache
+C:\Users\tmgod\source\repos\Lab5CPRG211D-Natalia\Lab5CPRG211D-Natalia\obj\Debug\Lab5CPRG211D-Natalia.csproj.CoreCompileInputs.cache
+C:\Users\tmgod\source\repos\Lab5CPRG211D-Natalia\Lab5CPRG211D-Natalia\obj\Debug\Lab5CPRG211D-Natalia.exe
+C:\Users\tmgod\source\repos\Lab5CPRG211D-Natalia\Lab5CPRG211D-Natalia\obj\Debug\Lab5CPRG211D-Natalia.pdb
